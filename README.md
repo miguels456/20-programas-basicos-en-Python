@@ -60,7 +60,18 @@ Cuenta el número de palabras en la lista utilizando len() y muestra el resultad
 
 ![image](https://github.com/user-attachments/assets/0f35d184-ac5a-4441-9f70-06a2d33e3361)
 
-## **Conversión de decimal a binario:**
+## **Calculadora de IMC:**
+
+Este programa calcula el Índice de Masa Corporal (IMC) de una persona. 
+
+Pide al usuario que introduzca su peso y altura, calcula el IMC usando la fórmula peso / (altura ** 2) y muestra el resultado.
+
+![image](https://github.com/user-attachments/assets/b5c266e8-2434-4941-b028-43b2eeb6ec18)
+
+
+
+
+
 
 
 
